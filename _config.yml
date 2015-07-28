@@ -8,13 +8,13 @@ relative_permalinks: true
 title:               shrkey
 tagline:             'Beyond the Edge'
 description:         'Maker of underwater robots, hunter of treasure, teller of tales, drinker of rum, founder of <a href="https://twitter.com/darkwaterhq">@darkwaterhq</a> and <a href="https://twitter.com/openfloats">@openfloats</a>.'
-url:                 http://shrkey.github.io
+url:                 http://shrkey.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Shrkey
+  name:              shrkey
   url:               https://twitter.com/shrkey
   email:             team@darkwater.io
 
