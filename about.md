@@ -4,10 +4,10 @@ title: About
 ---
 
 <p class="message">
-  All that is gold does not glitter,
-  Not all those who wander are lost;
-  The old that is strong does not wither,
-  Deep roots are not reached by the frost.
+  All that is gold does not glitter,<br/>
+  Not all those who wander are lost;<br/>
+  The old that is strong does not wither,<br/>
+  Deep roots are not reached by the frost.<br/>
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
