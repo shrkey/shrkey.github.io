@@ -8,8 +8,8 @@ description: "Beyond the Edge"
 keywords: "pirates, robots, history, ocean, adventure"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
-google-tracking-id: false
-disqus-shortname: false
+google-tracking-id: False
+disqus-shortname: False
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
