@@ -15,11 +15,6 @@ disqus-shortname: False
 # Blog link in the blog and post pages will point to the blog.html#blog
 # In the default page it will point to the preview of the last post
 
-pages_list:
-  About: 'about'
-  Blog: 'blog'
-  #Career: 'career'
-  Contact: 'contact'
 
 # Enable minification SASS
 sass:
